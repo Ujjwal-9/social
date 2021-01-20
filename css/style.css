@@ -28,7 +28,7 @@ a {
 
 .hero {
   /* background: url("../img/colorful.jpg") no-repeat center; */
-  background-size: cover;
+  /*background-size: cover;*/
   background-color: black;
   background-blend-mode: multiply;
   background-attachment: fixed;
